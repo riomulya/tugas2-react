@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import MenuKontak from "./page/MenuKontak";
-import MenuProduct from "./page/MenuProduct";
+import MenuMakanan from "./page/MenuMakanan";
 import MenuTentangKami from "./page/MenuTentangKami";
 import MenuUtama from "./page/MenuUtama";
 import Header from "./page/Header";
@@ -12,7 +12,7 @@ class App extends Component {
       <div>
         <Header />
         <MenuUtama />
-        <MenuProduct />
+        <MenuMakanan />
         <MenuKontak />
         <MenuTentangKami />
         <Footer />
