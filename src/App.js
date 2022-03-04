@@ -13,8 +13,8 @@ class App extends Component {
         <Header />
         <MenuUtama />
         <MenuMakanan />
-        <MenuKontak />
         <MenuTentangKami />
+        <MenuKontak />
         <Footer />
       </div>
     );
