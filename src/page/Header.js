@@ -4,7 +4,9 @@ const Header = () => {
   return (
     <div>
       <p className="nav">
-        <h5>Home | Product | Kontak | Tentang Kami</h5>
+        <h5>
+          <center>Home | Product | Kontak | Tentang Kami</center>
+        </h5>
       </p>
     </div>
   );
