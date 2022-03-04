@@ -5,7 +5,6 @@ import MenuTentangKami from "./page/MenuTentangKami";
 import MenuUtama from "./page/MenuUtama";
 import Header from "./page/Header";
 import Footer from "./page/Footer";
-import "./App.css";
 
 class App extends Component {
   render() {
